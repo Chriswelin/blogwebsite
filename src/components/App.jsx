@@ -13,7 +13,7 @@ function App() {
       <TextArea />
       <hr/>
       <Buttons />
-      <p>Some stuff</p>
+      <p>some stuff</p>
 
     </div>
   );
