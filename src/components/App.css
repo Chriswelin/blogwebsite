@@ -44,6 +44,10 @@ html {
   border-style: none;
 }
 
+.btn-success{
+  margin: 10px;
+}
+
 .form-control{
   width: 70%;
 
